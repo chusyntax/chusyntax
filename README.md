@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **my new portfolio in React**
 
-- 🌱 I’m currently learning **React and Gatsby**
+- 🌱 I’m currently learning **React**
 
 - 👯 I’m looking to collaborate on **anything**
 
@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **ttheko101@gmail.com**
+- 📫 How to reach me **email: ttheko101@gmail.com**
 
 - ⚡ Fun fact **I taught myself how to swim and ride a bike :)**
 
