@@ -1,4 +1,4 @@
-<h1 align="center">Salut 👋, I'm Chu-young (Chu) Thabo Theko</h1>
+<h1 align="center">Hello there 👋, I'm Chu-young (Chu) Thabo Theko</h1>
 <h3 align="center">A passionate Front-end Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chusyntax&label=Profile%20views&color=0e75b6&style=flat" alt="chusyntax" /> </p>
