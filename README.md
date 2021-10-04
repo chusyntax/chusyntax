@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chusyntax" alt="chusyntax" /></a> </p>
 
-- 🔭 I’m currently working on **My new portfolio **
+- 🔭 I’m currently working on **React **
 
 - 🌱 I’m currently learning **React**
 
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [https://thabotheko.netlify.app/](https://thabotheko.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://chusyntax.netlify.app/](https://thabotheko.netlify.app/)
 
 - 💬 Ask me about **anything**
 
