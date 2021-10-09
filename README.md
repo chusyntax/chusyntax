@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React **
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React and Gatsby**
 
 - 👯 I’m looking to collaborate on **anything**
 
