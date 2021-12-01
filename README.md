@@ -7,19 +7,19 @@
 
 - 🔭 I’m currently working on **React.js**
 
-- 🌱 I’m currently learning **Node.js**
+- 🌱 I’m currently learning **D3.js**
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **Gatsby**
+- 🤝 I’m looking for help with **React**
 
-- 👨‍💻 All of my projects are available at [https://chusyntax.netlify.app/](https://thabotheko.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://chusyntax.netlify.app/](https://chusyntax.netlify.app/)
 
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **email: ttheko101@gmail.com**
 
-- ⚡ Fun fact **I taught myself how to swim and ride a bike :)**
+- ⚡ Fun fact: **I taught myself how to swim and ride a bike :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
