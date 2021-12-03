@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **anything**
 
-- 🤝 I’m looking for help with **React**
+- 🤝 I’m looking for help with **D3.js**
 
 - 👨‍💻 All of my projects are available at [https://chusyntax.netlify.app/](https://chusyntax.netlify.app/)
 
