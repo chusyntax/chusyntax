@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Node.js**
 
-- 🌱 I’m currently learning **Python and Node.js**
+- 🌱 I’m currently learning **Node.js**
 
 - 👨‍💻 All of my projects are available at [https://chusyntax.netlify.app](https://chusyntax.netlify.app)
 
