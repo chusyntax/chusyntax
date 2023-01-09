@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **ttheko101@gmail.com**
 
-- ⚡ Fun fact **I taught myself how to swim and ride a bike**
+- ⚡ Fun fact **I taught myself how to swim, code and ride a bike**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
