@@ -28,6 +28,10 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chusyntax&show_icons=true&locale=en&layout=compact" alt="chusyntax" /></p>
 
+
+<img src="https://raw.githubusercontent.com/chusyntax/chusyntax/output/snake.svg" alt="Snake animation" />
+
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chusyntax&show_icons=true&locale=en" alt="chusyntax" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chusyntax&" alt="chusyntax" /></p>
