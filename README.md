@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm Chu</h1>
+<h1 align="center">Hello, I'm Chu</h1>
 <h3 align="center">A Full Stack Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chusyntax&label=Profile%20views&color=0e75b6&style=flat" alt="chusyntax" /> </p>
