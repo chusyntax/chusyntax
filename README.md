@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chusyntax" alt="chusyntax" /></a> </p>
 
-- 🔭 I’m currently working on **Angular**
+- 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Angular and Postgres**
+- 🌱 I’m currently learning **Java and Postgres**
 
 - 👯 I’m looking to collaborate on **anything**
 
