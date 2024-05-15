@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Java**
 
-- 🌱 I’m currently learning **Java and Postgres**
+- 🌱 I’m currently learning **Java and Angular**
 
 - 👯 I’m looking to collaborate on **anything**
 
