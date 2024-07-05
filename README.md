@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 👯 I’m looking to collaborate on **anything**
+- 👯 I’m looking to collaborate on **Java**
 
 - 👨‍💻 All of my projects are available at [http://chusyntax.netlify.app](http://chusyntax.netlify.app)
 
