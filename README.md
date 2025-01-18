@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **React Native and PHP**
 
-- 🌱 I’m currently learning **React Native and Next.js**
+- 🌱 I’m currently learning **React Native and PHP**
 
 - 👯 I’m looking to collaborate on **Java**
 
