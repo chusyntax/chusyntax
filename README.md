@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **React Native and PHP**
 
-- 👯 I’m looking to collaborate on **Java**
+- 👯 I’m looking to collaborate on **PHP**
 
 - 👨‍💻 All of my projects are available at [http://chusyntax.netlify.app](http://chusyntax.netlify.app)
 
