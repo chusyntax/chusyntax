@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **PHP**
 
-- 👨‍💻 All of my projects are available at [http://chusyntax.netlify.app](http://chusyntax.netlify.app)
+- 👨‍💻 All of my projects are available at [http://chusyntax.netlify.app](http://devchu.com)
 
 - 💬 Ask me about **anything**
 
