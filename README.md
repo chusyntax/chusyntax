@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **ttheko101@gmail.com**
 
-- ⚡ Fun fact **I am a self-taught developer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
